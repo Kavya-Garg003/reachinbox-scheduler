@@ -1,5 +1,7 @@
 # ReachInbox Email Scheduler
 
+> 🌐 **Live Hosted Link:** [https://unexploitative-cotyledonal-stanley.ngrok-free.dev](https://unexploitative-cotyledonal-stanley.ngrok-free.dev)
+
 Production-style email scheduler + dashboard: **Express + TypeScript, BullMQ/Redis, MySQL, Elasticsearch, Ethereal SMTP, React + Tailwind**, with real Google login and Slack OAuth.
 
 ```
